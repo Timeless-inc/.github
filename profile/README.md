@@ -28,9 +28,9 @@ Nossa stack tecnológica inclui, mas não se limita a:
 - Backend: Node.js, Php, Laravel
 - Banco de Dados: PostgreSQL, MySQL
 
-## 👥 Nossa Equipe - Projeto QUEBEC
+## 👥 Nossa Equipe -
 
-O Projeto QUEBEC é conduzido por uma equipe altamente especializada de profissionais comprometidos com a excelência e inovação:
+A nossa equipe é conduzida por uma equipe altamente especializada de estudantes comprometidos com a excelência e inovação:
 
 | Nome     |     Cargo |
 |------|-------|
